@@ -1,8 +1,6 @@
 # The importance and challenges of sharing research software” (#orlfeb20)  
-See below twitter handles of the speakers with references 
-to their slides, if available, or others references from their talks.
 
-
+## Detials of the event
 * Date And Time  
 Wed, 5 February 2020   
 18:00 – 20:30 GMT
@@ -47,6 +45,10 @@ This event is being organised jointly by Open Research London and the RSLondon r
 The day after this event, on Thursday 6th February, the RSLondonSouthEast 2020 workshop is being held. This is for software developers, researchers, academics, systems professionals and anyone with an interest in research software. RSLondonSouthEast 2020 is a full-day workshop consisting of talks, discussion and networking opportunities that will take place at The Royal Society in London. You can register for RSLondonSouthEast 2020 via Eventbrite.
 
 
+# Speakers
+See below twitter handles of the speakers with references 
+to their slides, if available, or others references from their talks.
+
 
 ## https://twitter.com/rachaelevelyn
 Inspiring talk with very nice references on how to do open access and reproducible science, 
@@ -58,7 +60,7 @@ where: https://twitter.com/rachaelevelyn/status/1225118668591443973
 
 
 ## https://twitter.com/IanMulvany
-
+Great points on how to do engering software
 
 Ian citing 
 * https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
@@ -126,9 +128,7 @@ Thanks @OpenResLDN for organising such nice event!
 
 MORE: https://github.com/mxochicale/seminars-talks-more/tree/master/2020/2020-02-05-research-software-london
 
-
-who are opening a new door and paths for the 
-future of research software.
++ who are opening a new door and paths for the  future of research software.
 
 
 
