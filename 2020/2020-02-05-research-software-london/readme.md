@@ -45,9 +45,11 @@ This event is being organised jointly by Open Research London and the RSLondon r
 The day after this event, on Thursday 6th February, the RSLondonSouthEast 2020 workshop is being held. This is for software developers, researchers, academics, systems professionals and anyone with an interest in research software. RSLondonSouthEast 2020 is a full-day workshop consisting of talks, discussion and networking opportunities that will take place at The Royal Society in London. You can register for RSLondonSouthEast 2020 via Eventbrite.
 
 
-# Speakers and some extra references
-See below twitter handles of the speakers with references 
-to their slides, if available, or others references from their talks.
+# Speakers, comments and some extra references
+See below twitter handles of the speakers with a brief comment
+of what my neurons can get from their talks. Also, some extra references 
+to their slides, if available, or others references from their talks 
+are registered below.
 
 
 ## https://twitter.com/rachaelevelyn
@@ -57,6 +59,10 @@ the slides of the talk are available [here](slides/Ainsworth_OpenScience_ORL_sma
 Slides also available in figshare https://figshare.com/articles/Reproducibility_and_Open_Research_Software/11762121/1
 which link was shared here: https://twitter.com/rachaelevelyn/status/1225118668591443973
 
+More about the speaker: 
+* https://rainsworth.github.io
+* https://github.com/rainsworth
+* https://figshare.com/authors/Rachael_Ainsworth/4824354
 
 
 ## https://twitter.com/IanMulvany
@@ -70,8 +76,9 @@ Ian cited
 a sustainable community 
 https://twitter.com/npch/status/1225137541529075712/photo/1 
 
-
-
+More about the spekaer: 
+* http://mulvany.net/ 
+* https://github.com/IanMulvany
 
 ## https://twitter.com/StephenEglen
 > Great talk on the challenges of creating the community of codecheck.
@@ -88,6 +95,7 @@ Stephen cited
 * https://codecheck.org.uk   
 
 More about the speaker: 
+* https://sje30.github.io   
 * https://github.com/sje30
 
 
@@ -111,24 +119,23 @@ Sian cited:
 * https://github.com/superresolusian
 
 More about the speaker:
-Sian is a postodctoral researcher in the lab of 
+* Sian is a postodctoral researcher in the lab of 
 https://twitter.com/HenriquesLab
 https://www.ucl.ac.uk/lmcb/users/ricardo-henriques 
+* https://sje30.github.io 
+* https://github.com/superresolusian
+* https://www.youtube.com/channel/UCYltJG3zAtHDfBXismmoB0A
 
 
 ## tweet message
-
-Great talks of @rachaelevelyn @IanMulvany @StephenEglen @SuperResoluSian
+> Great talks of @rachaelevelyn @IanMulvany @StephenEglen @SuperResoluSian
 and insightful comments of the chair @martinoreilly
 at “The importance and challenges of sharing research software” (#orlfeb20) 
 Thanks @OpenResLDN for organising such nice event!
-
 MORE: https://github.com/mxochicale/seminars-talks-more/tree/master/2020/2020-02-05-research-software-london
 
 Extra thoughts:
 * speakers are opening a new door and paths for the future of research software.
 * more than challenges, I see opportunities to make a better science, better scientist therefore better human beings :-) 
-
-
 
 
