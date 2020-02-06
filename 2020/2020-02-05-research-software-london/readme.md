@@ -1,4 +1,4 @@
-# The importance and challenges of sharing research software” (#orlfeb20)  
+# The importance and challenges of sharing research software (#orlfeb20)  
 
 ## Detials of the event
 * Date And Time  
@@ -45,24 +45,25 @@ This event is being organised jointly by Open Research London and the RSLondon r
 The day after this event, on Thursday 6th February, the RSLondonSouthEast 2020 workshop is being held. This is for software developers, researchers, academics, systems professionals and anyone with an interest in research software. RSLondonSouthEast 2020 is a full-day workshop consisting of talks, discussion and networking opportunities that will take place at The Royal Society in London. You can register for RSLondonSouthEast 2020 via Eventbrite.
 
 
-# Speakers
+# Speakers and some extra references
 See below twitter handles of the speakers with references 
 to their slides, if available, or others references from their talks.
 
 
 ## https://twitter.com/rachaelevelyn
-Inspiring talk with very nice references on how to do open access and reproducible science, 
+> Inspiring talk with very nice references on how to do open access and reproducible science, 
 the slides of the talk are available [here](slides/Ainsworth_OpenScience_ORL_small.pdf)
 
-Slides: https://figshare.com/articles/Reproducibility_and_Open_Research_Software/11762121/1
-where: https://twitter.com/rachaelevelyn/status/1225118668591443973
+Slides also available in figshare https://figshare.com/articles/Reproducibility_and_Open_Research_Software/11762121/1
+which link was shared here: https://twitter.com/rachaelevelyn/status/1225118668591443973
 
 
 
 ## https://twitter.com/IanMulvany
-Great points on how to do engering software
+> Great points on how to do professional software engineering  
+(i.e. build models for users, developers and contributors"). 
 
-Ian citing 
+Ian cited 
 * https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 * https://twitter.com/amuellerml?lang=en
 * taking jupyter as a good example of model to create 
@@ -70,54 +71,50 @@ a sustainable community
 https://twitter.com/npch/status/1225137541529075712/photo/1 
 
 
-References: 
-https://github.com/IanMulvany
 
 
 ## https://twitter.com/StephenEglen
-Great talk on the challenges of creating the community of codecheck.
+> Great talk on the challenges of creating the community of codecheck.
 The slides of his talk are available [here](slides/eglen-munin.pdf)
 
-Slides: https://sje30.github.io/talks/2019/eglen-munin.pdf
-where: https://twitter.com/StephenEglen/status/1225086015171371008
+The slides live in his github site here https://sje30.github.io/talks/2019/eglen-munin.pdf
+and the link were posted here https://twitter.com/StephenEglen/status/1225086015171371008
 
-
-Citing
+Stephen cited 
 * https://www.nature.com/articles/467753a
 * https://research-compendium.science
 * https://github.com/research-compendium
+* https://github.com/sje30/simpleR2019   
+* https://codecheck.org.uk   
 
-CODECHECK 
-https://github.com/sje30/simpleR2019   
-https://codecheck.org.uk   
-
-References: 
+More about the speaker: 
 * https://github.com/sje30
 
 
 
 ## https://twitter.com/SuperResoluSian
-Felt so connected with Sian as she is a postdoctoral 
+> I felt so connected with Sian as she is a postdoctoral 
 researcher facing the challenges of being a better 
-scientist by balancing her research and software
-engineering skills.
+scientist by balancing her research outcomes and improving 
+her software engineering skills.
+
+Her slides are shared in figshare here: https://figshare.com/articles/Open_Source_Software_Slides_from_Open_Research_London_February_2020/11815509
 
 
+
+
+Sian cited: 
+* https://github.com/mpicbg-csbd/stardist
+* Sharing the history of using developed by biologies and being in use by biologies https://imagej.net/StarDisti
+* https://iopscience.iop.org/article/10.1088/1361-6463/ab0261 
+* https://fiji.sc
+* https://github.com/superresolusian
+
+More about the speaker:
 Sian is a postodctoral researcher in the lab of 
-https://www.ucl.ac.uk/lmcb/users/ricardo-henriques
 https://twitter.com/HenriquesLab
+https://www.ucl.ac.uk/lmcb/users/ricardo-henriques 
 
-Citing 
-https://github.com/mpicbg-csbd/stardist
-
-Sharing the history of using 
-developed by biologies and being in use by biologies
-https://imagej.net/StarDisti
-
-References: 
-https://iopscience.iop.org/article/10.1088/1361-6463/ab0261 
-https://fiji.sc
-https://github.com/superresolusian
 
 ## tweet message
 
@@ -128,13 +125,9 @@ Thanks @OpenResLDN for organising such nice event!
 
 MORE: https://github.com/mxochicale/seminars-talks-more/tree/master/2020/2020-02-05-research-software-london
 
-+ who are opening a new door and paths for the  future of research software.
-
-
-
-
-
-
+Extra thoughts:
+* speakers are opening a new door and paths for the future of research software.
+* more than challenges, I see opportunities to make a better science, better scientist therefore better human beings :-) 
 
 
 
